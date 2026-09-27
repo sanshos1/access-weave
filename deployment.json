@@ -1,0 +1,11 @@
+{
+  "account": "sanshos1",
+  "network": "StudioNet",
+  "contractAddress": "0x2dE16c7084760Bc3CDf4C0999f2e30a2D0934B10",
+  "deploymentTransaction": "0xf5d7680aa109d13eca0c2118e11ea20cf3c6bc5979f252fbd506b13ee49435d5",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "c9e84681423274b664113e2c5bd634ff9b24891ee8a6fb323075d508495a30fd",
+  "repository": "https://github.com/sanshos1/access-weave",
+  "publicSite": "https://sanshos1-access-weave.pages.dev/"
+}

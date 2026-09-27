@@ -1,0 +1,1 @@
+import'./globals.css';import'./chart.css';export const metadata={title:'Access Weave',description:'A consensus journey for accessible passage.'};export default function L({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}
