@@ -1,0 +1,10 @@
+{
+  "network": "StudioNet",
+  "contract": "0x5563fC521Bc7dA579F9899bb03ED0d3b2bB1C408",
+  "deploymentTransaction": "0xb7e0109a1931d7d5e39ecf6b114b77722bd00115a1058b953f0c13f488e5d3ee",
+  "status": "FINALIZED",
+  "consensus": "MAJORITY_AGREE",
+  "execution": "SUCCESS",
+  "sourceSha256": "0a9696524d35ccf85c1f728436ea32d58cd578f2c7cc7f335babd4c11fae7685",
+  "sourceMatches": true
+}

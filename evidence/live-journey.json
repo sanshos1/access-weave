@@ -1,0 +1,83 @@
+{
+  "network": "StudioNet",
+  "contract": "0x5563fC521Bc7dA579F9899bb03ED0d3b2bB1C408",
+  "journeyId": "ROUTE-1791054094",
+  "walletDisclosure": "All wallets in this rehearsal are operator-controlled demo wallets, not independent third parties.",
+  "transactions": [
+    {
+      "transaction": "0x63b303e62cfd79f3872b5f47b6c8ad40c7ea4774176f5bcc90623b5827d5bba7",
+      "status": "FINALIZED",
+      "consensus": "MAJORITY_AGREE",
+      "execution": "SUCCESS",
+      "explorer": "https://explorer-studio.genlayer.com/transactions/0x63b303e62cfd79f3872b5f47b6c8ad40c7ea4774176f5bcc90623b5827d5bba7"
+    },
+    {
+      "transaction": "0x8dc4200df0c23d023ab626fac9384d6579e669d788c86264fa419210b686e1c8",
+      "status": "FINALIZED",
+      "consensus": "MAJORITY_AGREE",
+      "execution": "SUCCESS",
+      "explorer": "https://explorer-studio.genlayer.com/transactions/0x8dc4200df0c23d023ab626fac9384d6579e669d788c86264fa419210b686e1c8"
+    },
+    {
+      "transaction": "0xd521da8aa15b95bcfac58aa1cc937b64931d8655c9dbdfa57c3bbb3ba12b3d5d",
+      "status": "FINALIZED",
+      "consensus": "MAJORITY_AGREE",
+      "execution": "SUCCESS",
+      "explorer": "https://explorer-studio.genlayer.com/transactions/0xd521da8aa15b95bcfac58aa1cc937b64931d8655c9dbdfa57c3bbb3ba12b3d5d"
+    },
+    {
+      "transaction": "0x5ea995003c5502e9d6564bffc1b41310a6ce0b1582cedc2f44b487191dba111e",
+      "status": "FINALIZED",
+      "consensus": "MAJORITY_AGREE",
+      "execution": "SUCCESS",
+      "explorer": "https://explorer-studio.genlayer.com/transactions/0x5ea995003c5502e9d6564bffc1b41310a6ce0b1582cedc2f44b487191dba111e"
+    }
+  ],
+  "state": {
+    "constraints": [
+      "No stairs or step-only transitions",
+      "Maintain a continuous firm route at least 1.2 meters wide",
+      "Provide equivalent visual and tactile wayfinding at every decision point"
+    ],
+    "current": 3,
+    "id": "ROUTE-1791054094",
+    "need": "A wheelchair user must move from the street entrance to the boarding point without stairs, gaps, or reduced wayfinding.",
+    "segments": [
+      "Street entrance to ticket hall",
+      "Ticket hall to platform access",
+      "Platform access to boarding point"
+    ],
+    "seq": 0,
+    "state": "ARRIVED",
+    "strikes": 0
+  },
+  "attempts": {
+    "items": [
+      {
+        "basis": "short",
+        "issues": [],
+        "passage": "Use the level east entrance, a 1.4 meter firm corridor, automatic doors, and matching tactile and high-contrast signs to reach the ticket hall without steps.",
+        "preserves": true,
+        "segment": "Street entrance to ticket hall",
+        "traveler": "0xcafa30bf94d4fb01146588a1b7901bd85e7dbd0f"
+      },
+      {
+        "basis": "Passage satisfies all listed constraints for this segment: it uses an elevator instead of stairs, specifies a continuous firm route 1.3 meters wide, and includes tactile plus high-contrast wayfinding ",
+        "issues": [],
+        "passage": "Continue from the ticket hall through the staffed wide gate to the elevator; the 1.3 meter firm route has tactile and high-contrast direction signs at each turn.",
+        "preserves": true,
+        "segment": "Ticket hall to platform access",
+        "traveler": "0x013a0745a3b2dbf87f4ab377266fccb7e6eec88a"
+      },
+      {
+        "basis": "short",
+        "issues": [],
+        "passage": "Exit the elevator onto the level platform and follow a 1.4 meter unobstructed tactile-marked corridor with visual signs to the level boarding point.",
+        "preserves": true,
+        "segment": "Platform access to boarding point",
+        "traveler": "0x05c0cc3f433f6e296f18117f558fdb9043434793"
+      }
+    ],
+    "total": 3
+  }
+}

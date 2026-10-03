@@ -1,11 +1,14 @@
 {
   "account": "sanshos1",
   "network": "StudioNet",
-  "contractAddress": "0x2dE16c7084760Bc3CDf4C0999f2e30a2D0934B10",
-  "deploymentTransaction": "0xf5d7680aa109d13eca0c2118e11ea20cf3c6bc5979f252fbd506b13ee49435d5",
+  "contractAddress": "0x5563fC521Bc7dA579F9899bb03ED0d3b2bB1C408",
+  "deploymentTransaction": "0xb7e0109a1931d7d5e39ecf6b114b77722bd00115a1058b953f0c13f488e5d3ee",
   "deploymentConsensus": "MAJORITY_AGREE",
   "deploymentExecution": "SUCCESS",
-  "sourceSha256": "c9e84681423274b664113e2c5bd634ff9b24891ee8a6fb323075d508495a30fd",
+  "sourceSha256": "0a9696524d35ccf85c1f728436ea32d58cd578f2c7cc7f335babd4c11fae7685",
+  "frontendDeployment": "https://eba7f6ca.sanshos1-access-weave.pages.dev/",
   "repository": "https://github.com/sanshos1/access-weave",
-  "publicSite": "https://sanshos1-access-weave.pages.dev/"
+  "publicSite": "https://sanshos1-access-weave.pages.dev/",
+  "explorerContract": "https://explorer-studio.genlayer.com/address/0x5563fC521Bc7dA579F9899bb03ED0d3b2bB1C408",
+  "explorerDeployment": "https://explorer-studio.genlayer.com/transactions/0xb7e0109a1931d7d5e39ecf6b114b77722bd00115a1058b953f0c13f488e5d3ee"
 }
