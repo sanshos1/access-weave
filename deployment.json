@@ -6,6 +6,7 @@
   "deploymentConsensus": "MAJORITY_AGREE",
   "deploymentExecution": "SUCCESS",
   "sourceSha256": "0a9696524d35ccf85c1f728436ea32d58cd578f2c7cc7f335babd4c11fae7685",
+  "sourceCommit": "be582f7a614dcbed29ad13aed5dfa7c51e7bc286",
   "frontendDeployment": "https://eba7f6ca.sanshos1-access-weave.pages.dev/",
   "repository": "https://github.com/sanshos1/access-weave",
   "publicSite": "https://sanshos1-access-weave.pages.dev/",

@@ -1,6 +1,6 @@
 # Verification
 
-The corrected contract passed four executable surface and consensus tests, GenVM lint, and semantic validation. Local source SHA-256 `0a9696524d35ccf85c1f728436ea32d58cd578f2c7cc7f335babd4c11fae7685` matches the decoded StudioNet deployment source byte-for-byte.
+The corrected contract at reviewed source commit `be582f7a614dcbed29ad13aed5dfa7c51e7bc286` passed four executable surface and consensus tests, GenVM lint, and semantic validation. Local source SHA-256 `0a9696524d35ccf85c1f728436ea32d58cd578f2c7cc7f335babd4c11fae7685` matches the decoded StudioNet deployment source byte-for-byte.
 
 StudioNet finalized deployment `0xb7e0109a1931d7d5e39ecf6b114b77722bd00115a1058b953f0c13f488e5d3ee` with `MAJORITY_AGREE` and leader execution `SUCCESS`, producing contract `0x5563fC521Bc7dA579F9899bb03ED0d3b2bB1C408`.
 
