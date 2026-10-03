@@ -29,4 +29,4 @@ The static frontend reads StudioNet state before wallet connection and requests 
 - Deployment: `0xb7e0109a1931d7d5e39ecf6b114b77722bd00115a1058b953f0c13f488e5d3ee`
 - Completed journey: `ROUTE-1791054094`
 - Final passage: `0x5ea995003c5502e9d6564bffc1b41310a6ce0b1582cedc2f44b487191dba111e`
-- Public station: https://sanshos1-access-weave.pages.dev/
+- Public station: https://access-weave.pages.dev/

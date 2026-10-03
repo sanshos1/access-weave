@@ -6,7 +6,7 @@ StudioNet finalized deployment `0xb7e0109a1931d7d5e39ecf6b114b77722bd00115a1058b
 
 Journey `ROUTE-1791054094` was created and completed by three distinct operator-controlled demo wallets. The creation and all three passage transactions finalized with `MAJORITY_AGREE` and `SUCCESS`. Canonical readback returned `ARRIVED`, current segment `3`, zero barriers, and three accepted attempts. These wallets demonstrate replay and unique-traveler behavior; they are not represented as independent authorities.
 
-Cloudflare deployment `eba7f6ca` published the corrected build at https://sanshos1-access-weave.pages.dev/. Browser verification loaded the exact production URL and read the completed journey as three `CLEARED` segments, `ARRIVED`, and `0/3 BARRIERS`. The frontend waits for `FINALIZED` before refreshing state.
+Cloudflare deployment `e354e259` published the corrected build at https://access-weave.pages.dev/. Browser verification loaded the exact production URL and read the completed journey as three `CLEARED` segments, `ARRIVED`, and `0/3 BARRIERS`. The frontend waits for `FINALIZED` before refreshing state.
 
 ## Transaction record
 
